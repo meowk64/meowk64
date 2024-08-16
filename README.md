@@ -6,4 +6,6 @@
 
 使用 GNU/Linux，但是不排斥其他操作系统
 
-![code](https://github-readme-stats.vercel.app/api/top-langs/?username=wangs-official)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=meowk64)
+
+（话说对于我这种从不活跃的fw来说这玩意有用吗）
