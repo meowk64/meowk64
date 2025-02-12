@@ -1,10 +1,8 @@
-高一生，00后
+~~貌似没什么可说的~~
 
-~~然后貌似没什么可说的了~~
+主要感兴趣的是 C/C++，Lua，以及计算机图形学之类的，大部分时间都在本地自娱自乐所以没有提交东西（也就是说如果写了个差不多点的项目大概会有仓库？）
 
-主要感兴趣的是 C/C++，Lua，以及计算机图形学之类的
-
-使用 GNU/Linux，但是不排斥其他操作系统
+Linux 蛮好用的
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=meowk64)
 
